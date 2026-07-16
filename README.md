@@ -1,4 +1,4 @@
- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharavan-santosh-5/Sharavan-santosh-5/main/dark.svg">
   <img alt="Sharavan Santosh Mallisetty" src="https://raw.githubusercontent.com/Sharavan-santosh-5/Sharavan-santosh-5/main/dark.svg">
 </picture>
