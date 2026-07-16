@@ -9,7 +9,6 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharavansantosh5@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 `Python` `MySQL` `Bash Script` `scikit-learn` `TensorFlow` `PyTorch` `OpenAPI` `Pandas` `NumPy` `FastAPI` `Postman` `Docker` `Postgres` `AWS` `Azure` `Power BI` `Jira`
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sharavan-santosh-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
