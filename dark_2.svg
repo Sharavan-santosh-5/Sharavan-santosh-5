@@ -111,10 +111,7 @@
         <text x="510" y="295" opacity="0">🧠 Focus: Enterprise RAG, Agentic AI, LLM Evaluation
           <animate attributeName="opacity" to="1" begin="1.8s" dur="0.5s" fill="freeze"/>
         </text>
-        <text x="510" y="320" opacity="0">🔗 Portfolio: your-portfolio-link.dev
-          <animate attributeName="opacity" to="1" begin="2.2s" dur="0.5s" fill="freeze"/>
-        </text>
-        <text x="510" y="345" opacity="0">✉️ sharavansantosh5@gmail.com
+        <text x="510" y="320" opacity="0">✉️ sharavansantosh5@gmail.com
           <animate attributeName="opacity" to="1" begin="2.6s" dur="0.5s" fill="freeze"/>
         </text>
       </g>
